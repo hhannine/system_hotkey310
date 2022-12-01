@@ -1,9 +1,11 @@
-System Hotkey
+System Hotkey (Python 3.10)
 =============
 
-Multi platform system wide hotkeys for python 3,
+Multi platform system wide hotkeys for Python 3.
 
-Currently no mac or  python2 support :(
+Currently no mac support but pull requests or collaboration is very welcome!
+
+Note: currently this fork exists just to fix Python 3.10 compatibility.
 
 
 Installation
