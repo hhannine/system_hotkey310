@@ -9,15 +9,15 @@ def read(*paths):
         return f.read()
 
 setup(
-	name = 'system_hotkey',
-	version='1.0.3',
+	name = 'system_hotkey310',
+	version='1.0.5',
 	description = 'System wide hotkeys',
 	long_description = (read('README.rst') + '\n\n' +
                       read('HISTORY.rst') + '\n\n' +
                       read('AUTHORS.rst')),
-	url = 'https://github.com/timeyyy/system_hotkey',
-	author='timothy eichler',
-	author_email='tim_eichler@hotmail.com',
+	url = 'https://github.com/hhannine/system_hotkey310',
+	author='Henri Hänninen',
+	author_email='henri.j.hanninen@gmail.com',
 	license='BSD3',
 	# See https://pypi.python.org/pypi?%3Aaction=list_classifiers
 	classifiers=[
@@ -29,7 +29,6 @@ setup(
 		'Intended Audience :: Developers',
 		'Operating System :: OS Independent',
 		'License :: OSI Approved :: BSD License',
-		#~ 'Programming Language :: Python :: 2',
 		'Programming Language :: Python :: 3',
 	],
 

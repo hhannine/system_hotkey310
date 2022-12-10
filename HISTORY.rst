@@ -9,6 +9,10 @@ eta > 8 months
 
 Version Release Notes
 =====================
+1.0.5
+-----
+* Python 3.10 compatibility
+
 1.0.4
 -----
 * Exceptions are now run in main

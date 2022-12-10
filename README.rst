@@ -1,11 +1,11 @@
-System Hotkey (Python 3.10)
-=============
+System Hotkey 310
+=================
 
-Multi platform system wide hotkeys for Python 3.
+Multi platform system wide hotkeys for Python 3.10+
 
 Currently no mac support but pull requests or collaboration is very welcome!
 
-Note: currently this fork exists just to fix Python 3.10 compatibility.
+Note: currently this fork of system_hotkey exists just to fix Python 3.10 compatibility.
 
 
 Installation
@@ -15,7 +15,7 @@ the old
 
 .. code-block:: bash
 
-  pip3 install system_hotkey
+  pip3 install system_hotkey310
 
 should do the trick
 
